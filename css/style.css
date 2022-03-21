@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container {
+    width: 100%;
+    height: 100vh;
+    background-color: #2b323c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container h1 {
+    font-size: 80px;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+span {
+    color: #fff724;
+    cursor: pointer;
+}
+
+.auto-type {
+    padding: 0 5px;
+    border-radius: 3px;
+    border-bottom: 5px solid goldenrod;
+}
