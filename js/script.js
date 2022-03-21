@@ -1,6 +1,6 @@
 let typed = new Typed(".auto-type", {
-    strings: ["Coding", "Sleeping", "Eating", "Going", "Writing..."],
-    typeSpeed: 150,
-    backSpeed: 100,
+    strings: ["Waking up!", "Having breakfast", "Coding...", "Watching TV", "Sleeping (zzz",],
+    typeSpeed: 130,
+    backSpeed: 70,
     loop: true
 })
